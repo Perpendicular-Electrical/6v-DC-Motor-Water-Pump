@@ -1,8 +1,8 @@
-# 6v-DC-Motor-Water-Pump
+# 6v-DC-Motor-Water-Pump ⛽
 A demonstration of repurposing a dc motor as a water pump
 
-TO DO :
+Blade/Impeller design 🎡
+![20240914_110329](https://github.com/user-attachments/assets/e8b998c1-d943-440c-a91b-fe25b36f12c1)
 
-Add how to
-
-Add video and images
+Video demo 🎥
+Coming soon...
