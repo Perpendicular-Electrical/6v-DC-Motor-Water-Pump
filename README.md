@@ -6,7 +6,7 @@ A demonstration of repurposing a dc motor as a water pump
 - 9v battery
 - Switch
 - Copper wire
-- 3 plastic lids (2 fort the housing, 1 for the impeller)
+- 3 plastic lids (2 for the housing, 1 for the impeller)
 - Optional - Cable jacket
 - Glue gun
 - Scissors
