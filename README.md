@@ -9,6 +9,7 @@ A demonstration of repurposing a dc motor as a water pump
 - 3 plastic lids (2 fort the housing, 1 for the impeller)
 - Optional - Cable jacket
 - Glue gun
+- Scissors
 
 Blade/Impeller design 🎡
 ![20240914_110329](https://github.com/user-attachments/assets/e8b998c1-d943-440c-a91b-fe25b36f12c1)
