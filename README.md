@@ -30,4 +30,5 @@ Inlet ⤴️
 
 
 Video demo 🎥
-Coming soon...
+
+https://youtu.be/2r0b24YWzwA?si=HFCKnma4O_XCsoQn
