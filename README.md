@@ -19,7 +19,8 @@ Blade/Impeller design 🎡
 
 Housing 🥯
 
-![20240916_035010](https://github.com/user-attachments/assets/e157d0b5-5692-468c-b2b9-e6046b51f6eb)
+![20240916_034905](https://github.com/user-attachments/assets/45a3818a-997f-4068-ac94-b2a04c15c5d5)
+
 
 Inlet ⤴️
 
